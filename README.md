@@ -24,3 +24,18 @@
 
 <li>Scalability: The current design supports a singular dragon; accommodating multiple dragons may necessitate further development.</li>
 </ul>
+
+<h2>How to Use</h2>
+<ol type="1">
+  <li>Download <b>Test3.apk</b> application from the Builds folder from the above github files :</li>
+  <li>Download 1.jpeg from the assets folder</li>
+  <li>Once you download both of these open the application in mobile and scan the image to spawn dragon</li>
+  <li>The dragon can be operated wsing the joysick</li>
+  <li>Open Unity Hub on your laptop and follow these steps:</li>
+    <ulstyle="list-style-type:disc;>
+      <li>Add a new project with Unity Editor version 2021.3.33.f1.</li>
+      <li></li>Select the "AR_Dragon_Simulator" folder as your project directory.</li>
+    </ul>
+  <li>In Unity, navigate to File -> Build Settings -> Build to generate the APK file.</li>
+  <li>The APK file is now ready for deployment on your Android device. Install and explore the AR Plant Showcase App.</li>
+</ol>
