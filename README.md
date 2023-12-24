@@ -32,7 +32,7 @@
   <li>Once you download both of these open the application in mobile and scan the image to spawn dragon</li>
   <li>The dragon can be operated wsing the joysick</li>
   <li>Open Unity Hub on your laptop and follow these steps:</li>
-    <ulstyle="list-style-type:disc;>
+    <ul style="list-style-type:disc;>
       <li>Add a new project with Unity Editor version 2021.3.33.f1.</li>
       <li></li>Select the "AR_Dragon_Simulator" folder as your project directory.</li>
     </ul>
