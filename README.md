@@ -12,8 +12,8 @@
 
 <h2>Functionalities</h2>
 <ul>
-A dragon materializes upon successfully scanning the specified photo.
-A joystick interface facilitates the control of the dragon's flight and movement.
+<li>A dragon materializes upon successfully scanning the specified photo.</li>
+<li>A joystick interface facilitates the control of the dragon's flight and movement.</li>
 </ul>
 
 <h2>Limitations</h2>
