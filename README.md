@@ -34,7 +34,7 @@
   <li>Open Unity Hub on your laptop and follow these steps:</li>
   <ul style="list-style-type:disc;">
     <li>Add a new project with Unity Editor version 2021.3.33.f1.</li>
-    <li></li>Select the "AR_Dragon_Simulator" folder as your project directory.</li>
+    <li>Select the "AR_Dragon_Simulator" folder as your project directory.</li>
   </ul>
   <li>In Unity, navigate to File -> Build Settings -> Build to generate the APK file.</li>
   <li>The APK file is now ready for deployment on your Android device. Install and explore the AR Plant Showcase App.</li>
