@@ -39,3 +39,6 @@
   <li>In Unity, navigate to File -> Build Settings -> Build to generate the APK file.</li>
   <li>The APK file is now ready for deployment on your Android device. Install and explore the AR Plant Showcase App.</li>
 </ol>
+<br>
+Feel free to contribute to the project or report any issues by creating a pull request or raising an issue on GitHub.
+Note: Ensure that your Android device is running Android version 7.0 or higher for optimal performance.
